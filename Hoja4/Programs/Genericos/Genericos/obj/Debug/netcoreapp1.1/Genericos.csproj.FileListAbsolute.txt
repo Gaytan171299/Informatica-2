@@ -1,0 +1,8 @@
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/bin/Debug/netcoreapp1.1/Genericos.deps.json
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/bin/Debug/netcoreapp1.1/Genericos.runtimeconfig.json
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/bin/Debug/netcoreapp1.1/Genericos.runtimeconfig.dev.json
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/bin/Debug/netcoreapp1.1/Genericos.dll
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/bin/Debug/netcoreapp1.1/Genericos.pdb
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/obj/Debug/netcoreapp1.1/Genericos.AssemblyInfo.cs
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/obj/Debug/netcoreapp1.1/Genericos.dll
+/home/andres1599/Documentos/INFORMATICA 2/Hoja4/Programs/Genericos/Genericos/obj/Debug/netcoreapp1.1/Genericos.pdb
