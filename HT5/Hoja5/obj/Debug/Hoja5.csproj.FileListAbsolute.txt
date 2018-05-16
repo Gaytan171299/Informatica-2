@@ -1,0 +1,12 @@
+c:\users\chris\documents\visual studio 2017\Projects\Hoja5\Hoja5\bin\Debug\Hoja5.exe.config
+c:\users\chris\documents\visual studio 2017\Projects\Hoja5\Hoja5\bin\Debug\Hoja5.exe
+c:\users\chris\documents\visual studio 2017\Projects\Hoja5\Hoja5\bin\Debug\Hoja5.pdb
+c:\users\chris\documents\visual studio 2017\Projects\Hoja5\Hoja5\obj\Debug\Hoja5.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\Hoja5\Hoja5\obj\Debug\Hoja5.exe
+c:\users\chris\documents\visual studio 2017\Projects\Hoja5\Hoja5\obj\Debug\Hoja5.pdb
+C:\Users\mario\Desktop\Informatica-2\HT5\Hoja5\bin\Debug\Hoja5.exe.config
+C:\Users\mario\Desktop\Informatica-2\HT5\Hoja5\bin\Debug\Hoja5.exe
+C:\Users\mario\Desktop\Informatica-2\HT5\Hoja5\bin\Debug\Hoja5.pdb
+C:\Users\mario\Desktop\Informatica-2\HT5\Hoja5\obj\Debug\Hoja5.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Informatica-2\HT5\Hoja5\obj\Debug\Hoja5.exe
+C:\Users\mario\Desktop\Informatica-2\HT5\Hoja5\obj\Debug\Hoja5.pdb

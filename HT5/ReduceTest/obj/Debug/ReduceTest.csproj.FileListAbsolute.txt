@@ -1,0 +1,15 @@
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\ReduceTest.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\ReduceTest.pdb
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Hoja5.exe
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Hoja5.pdb
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Hoja5.exe.config
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\obj\Debug\ReduceTest.csprojResolveAssemblyReference.cache
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\obj\Debug\ReduceTest.dll
+c:\Users\chris\documents\visual studio 2017\Projects\Hoja5\ReduceTest\obj\Debug\ReduceTest.pdb
